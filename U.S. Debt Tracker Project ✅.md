@@ -17,10 +17,7 @@ Summary/Conclusions:
 For the Total Public Debt Oustanding, in years 2016-2019, the average increase was around 5%.
 In 2020, we see a large spike that was most likely caused by the Pandemic responses in the U.S.
 
-.
-.
-.
-.
+##
 
 📅 2. Which months historically have seen the highest/lowest increases in Total debt?
 
@@ -34,10 +31,7 @@ Lowest Debt Increase months historically occur during the months of April, May, 
 Hypothesis - During high months, there are holidays in the U.S. such as Thanksgiving, Christmas and New Years that people historically spend money buying gifts for others. People take out debts during these months to buy gifts.
 There are no major holidays during the low months so people are taking out less debts.
 
-.
-.
-.
-.
+##
 
 🔮 3. What is the projected growth of the publicly held debt in the next few years?
 
@@ -55,10 +49,7 @@ From 2023 to 2027 it is projected that Publicy held debt will increase to 33 Tri
 
 In Conclusion, Publicy Held debt is projected to increase at a steady increased rate over the next 5 years.
 
-.
-.
-.
-.
+##
 
 🧰 Tools & Skills Used
 
