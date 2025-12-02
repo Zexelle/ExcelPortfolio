@@ -35,7 +35,7 @@ There are no major holidays during the low months so people are taking out less 
 
 🔮 3. What is the projected growth of the publicly held debt in the next few years?
 
-![U.S. Debt Tracker - Screenshot 3](https://github.com/Zexelle/ExcelPortfolio/blob/main/U.S.%20Debt%20Tracker%20-%20Screenshot%203)
+![U.S. Debt Tracker - Screenshot 3](https://github.com/Zexelle/U.S.-Debt-Tracker/blob/main/Screenshots/Projected%20Publicaly%20Held%20Debt.png)
 
 Summary/Conclusions:
 
